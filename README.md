@@ -13,7 +13,7 @@ This project is a replica of the Disney+ website, built with HTML, CSS, JavaScri
 ## Features
 - **Responsive Design**: The website is fully responsive, ensuring it looks great on diferent devices.
 - **Interactive Tabs**: Users can switch between different movie categories (e.g., Upcoming, Popular, Star+) with a smooth transition.
-- **FAQ Section: A list of frequently asked questions, providing clarity on what is included in the subscription and how to use the platform.
+- **FAQ Section**: A list of frequently asked questions, providing clarity on what is included in the subscription and how to use the platform.
 - **Accessibility**: The website is designed with accessibility in mind, making it user-friendly across a wide range of devices and platforms.
 - **Dynamic Content**: The content (like images of movies, pricing, and subscription plans) is structured in a way that can be easily extended or modified.
 
