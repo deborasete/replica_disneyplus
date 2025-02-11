@@ -1,7 +1,7 @@
 # Disney+ Replica
 
 This project is a replica of the Disney+ website, built with HTML, CSS, JavaScript, Sass and Gulp. The design is responsive and accessible across different devices.
-- You can visit the live site here: https://replica-disneyplus-2263nd71l-debora-sete-acostas-projects.vercel.app/#
+- You can visit the live site here: https://replica-disneyplus.vercel.app/
 
 ## Technologies Used
 - **HTML5**: Semantic HTML elements and structure.
